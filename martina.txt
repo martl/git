@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 asdasdMartina Freundorfer
+=======
+ioooo
+
+Martina Freundorfer
+>>>>>>> new_branch
 34 years old
 mother of two cats
 originally from Munich, Germany
