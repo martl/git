@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 82bc3249e784e82f8a35f8106969db682b857488 Ion <vanealazarev@gmail.com> 1558945393 +0200	clone: from https://github.com/martl/git.git
+82bc3249e784e82f8a35f8106969db682b857488 bf8bb4c7300c634bc76654d987d09a77df0598be Ion <vanealazarev@gmail.com> 1558946078 +0200	pull: Fast-forward
+bf8bb4c7300c634bc76654d987d09a77df0598be 70f9dc5ed607b47612c7fad62af932d4500db13b Ion <vanealazarev@gmail.com> 1558946363 +0200	commit: Changed Readme.md
+70f9dc5ed607b47612c7fad62af932d4500db13b 39c5c2ce4946b315582e5cfd578dc0db2e2c8815 Ion Lazarev <vanealazarev@gmail.com> 1558946850 +0200	pull: Merge made by the 'recursive' strategy.
+39c5c2ce4946b315582e5cfd578dc0db2e2c8815 0fe668831c5573c5a283fa1b602a88d113909258 Ion Lazarev <vanealazarev@gmail.com> 1558947274 +0200	pull: Fast-forward
+0fe668831c5573c5a283fa1b602a88d113909258 26a7c91e2dcdfa05ca1d8619d922aa5dfcda19ca Ion Lazarev <vanealazarev@gmail.com> 1558950061 +0200	commit: 1
+26a7c91e2dcdfa05ca1d8619d922aa5dfcda19ca 6cb503b6f81bd2b9861cc9ed02ba8bc0304810a9 Ion Lazarev <vanealazarev@gmail.com> 1558950152 +0200	commit: 2
+6cb503b6f81bd2b9861cc9ed02ba8bc0304810a9 77e5c5d512687d37b2873aa637de1308ea62fb20 Ion Lazarev <vanealazarev@gmail.com> 1558950235 +0200	commit: 3
+77e5c5d512687d37b2873aa637de1308ea62fb20 478a7d264b52f05c4e3008274bf48021d849ab34 Ion Lazarev <vanealazarev@gmail.com> 1558950252 +0200	commit: 4
+478a7d264b52f05c4e3008274bf48021d849ab34 c36d44ce337757083035faacb3a14f3cd220053e Ion Lazarev <vanealazarev@gmail.com> 1558950265 +0200	commit: 5
+c36d44ce337757083035faacb3a14f3cd220053e 99111bf61e83bae6754932b3d20b18f66f27f1c4 Ion Lazarev <vanealazarev@gmail.com> 1558950386 +0200	commit: 1
+99111bf61e83bae6754932b3d20b18f66f27f1c4 e2b9462dce8215e918264d39d6ba728301d0c4fc Ion Lazarev <vanealazarev@gmail.com> 1558950409 +0200	commit: 2
+e2b9462dce8215e918264d39d6ba728301d0c4fc 774e5ee1283493cc8db7837d3762f588c9da82c3 Ion Lazarev <vanealazarev@gmail.com> 1558950424 +0200	commit: 3
+774e5ee1283493cc8db7837d3762f588c9da82c3 4b742f19dde749f9cc069227f143310a2890be75 Ion Lazarev <vanealazarev@gmail.com> 1558950436 +0200	commit: 4
+4b742f19dde749f9cc069227f143310a2890be75 bd26670273c71d1d34184a843c43194f1f8a8c54 Ion Lazarev <vanealazarev@gmail.com> 1558950450 +0200	commit: 5
